@@ -14,7 +14,7 @@ import java.util.Scanner;
  * Created by Sayyed Shozib Abbas on 7/9/2017.
  */
 
-public class RequestPerformer extends AsyncTask<String, Void, String> {
+public class GetPerformer extends AsyncTask<String, Void, String> {
     protected String url;
     protected String charset;
 
